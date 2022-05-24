@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T07:21:54.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="smNcWNT4RSwlFTnnG9FF" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T07:34:36.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="YYanJU38a7r0ctq2xluZ" version="18.1.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="2130" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="60da8b9f42644d3a-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;目标: 脱离KANZI 能够独立实现HUD项目设计&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFC001;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="514" y="411" width="264" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-18" value="阶段2(b版本)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-18" value="阶段2(b 版本)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="514" y="425" width="264" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-19" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;DeadLine&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;: 10 EOM&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="60da8b9f42644d3a-24" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; &amp;nbsp;目标: 在Beta 的基础上，进行优化，新功能不在增加，实现稳定。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFB001;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="917" y="405" width="264" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-25" value="阶段3(1.0版本)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-25" value="阶段3(1.0 版本)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="917" y="425" width="264" height="60" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;DeadLine&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;:12 EOM&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
