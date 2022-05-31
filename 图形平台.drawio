@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T05:47:42.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="YGfKgMpQxXqBBSbR0Lt4" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T05:57:32.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36" etag="jD2vpkjf-96Gh3VbnGav" version="18.1.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1278" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="936" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tsflieEWywzMx-2usuDZ-36" value="&lt;h1&gt;ZJARRunner&lt;/h1&gt;&lt;p&gt;主要是设计成功，即产品展示能力。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;运行环境：&lt;/p&gt;&lt;p&gt;&amp;nbsp; 1. Win32/Win64 主要逻辑排错。&lt;/p&gt;&lt;p&gt;&amp;nbsp; 2. Linux(X86/ARM) 目前还没有客户, 业界知名的车厂是Tesla 用的是linux 直接上面开发应用的。&lt;/p&gt;&lt;p&gt;&amp;nbsp; 3.&amp;nbsp; Yocto (ARM) 光机上系统&lt;/p&gt;&lt;p&gt;&amp;nbsp; 4.&amp;nbsp; QNX （ARM） 传统车企以及欧洲老牌车企还在使用 。&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;5. Android (ARM/x86)&amp;nbsp; 造车新势力，以及国外很多车企也都转到这个平台。甚至有在QNX上跑hypervisor 层，这个虚拟机就是Android,&amp;nbsp; 主要车载娱乐生态就在Android 上，传统的仪表，控制还在QNX上。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tsflieEWywzMx-2usuDZ-36" value="&lt;h1&gt;ZJARRunner&lt;/h1&gt;&lt;p&gt;主要是设计成果展示，即产品展示能力。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;运行环境：&lt;/p&gt;&lt;p&gt;&amp;nbsp; 1. Win32/Win64 主要逻辑排错。&lt;/p&gt;&lt;p&gt;&amp;nbsp; 2. Linux(X86/ARM) 目前还没有客户, 业界知名的车厂是Tesla 用的是linux 直接上面开发应用的。&lt;/p&gt;&lt;p&gt;&amp;nbsp; 3.&amp;nbsp; Yocto (ARM) 光机上系统&lt;/p&gt;&lt;p&gt;&amp;nbsp; 4.&amp;nbsp; QNX （ARM） 传统车企以及欧洲老牌车企还在使用 。&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;5. Android (ARM/x86)&amp;nbsp; 造车新势力，以及国外很多车企也都转到这个平台。甚至有在QNX上跑hypervisor 层，这个虚拟机就是Android,&amp;nbsp; 主要车载娱乐生态就在Android 上，传统的仪表，控制还在QNX上。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="953" y="46" width="190" height="468" as="geometry" />
         </mxCell>
         <mxCell id="tsflieEWywzMx-2usuDZ-37" value="不支持" style="text;html=1;strokeColor=#FF3333;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
