@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T15:07:44.305Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SU8G1vYrHsu5Vfi5b2bU" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-25T15:10:46.467Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2Xyiz8O-sUMxZe5iXfhd" version="20.0.3" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="981" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -104,6 +104,9 @@
             <mxPoint x="530" y="390" as="sourcePoint" />
             <mxPoint x="580" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E8qVWv2yx--T5LNkzgXp-311" value="&lt;h1&gt;优点:&amp;nbsp; 收集的需求细节多，看到更多系统全貌， 因此设计出来系统更高效，健壮。&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
