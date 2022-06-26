@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T01:01:58.989Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zXyEvjU5jSLxDL5R39mm" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T01:19:33.927Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_R34ShMeqW91t0h0hQxt" version="20.0.3" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="981" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E8qVWv2yx--T5LNkzgXp-314" value="&lt;h1&gt;敏捷&lt;/h1&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#eeeeee;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="70" y="610" width="1600" height="520" as="geometry" />
+          <mxGeometry x="70" y="610" width="1600" height="340" as="geometry" />
         </mxCell>
         <mxCell id="E8qVWv2yx--T5LNkzgXp-278" value="&lt;h1&gt;&lt;span style=&quot;font-weight: 400; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;传统开发流程&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="1380" height="400" as="geometry" />
@@ -111,7 +111,7 @@
         <mxCell id="E8qVWv2yx--T5LNkzgXp-311" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;优点:&amp;nbsp; 收集的需求细节多，看到更多系统全貌， 因此设计出来系统更高效，健壮。&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;缺点： 开发周期长，美国有一个失败案例，系统开发10年，10年之后，原始业务公司不存在了。 变更不够灵活。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="E8qVWv2yx--T5LNkzgXp-312" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#cdeb8b;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="E8qVWv2yx--T5LNkzgXp-312" value="&lt;h1&gt;迭代框（循环）&lt;/h1&gt;" style="text;html=1;strokeColor=#36393d;fillColor=#cdeb8b;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290" y="620" width="1180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="E8qVWv2yx--T5LNkzgXp-313" value="市场调研/业务思路/风险评估" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -170,6 +170,15 @@
         </mxCell>
         <mxCell id="E8qVWv2yx--T5LNkzgXp-331" value="行为记录/数据分析/后续决策" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1530" y="675" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8qVWv2yx--T5LNkzgXp-333" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;优点:&amp;nbsp; &amp;nbsp;面向用户交付，及时收集用户反馈。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;缺点：迭代过程可能存在反复重构，因此对设计阶段要求高&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E8qVWv2yx--T5LNkzgXp-338" value="1. 控制点，需求列表&lt;br&gt;2. 价值评估" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="720" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E8qVWv2yx--T5LNkzgXp-339" value="1.&amp;nbsp; 控制点， 对价值输出检验。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="720" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
