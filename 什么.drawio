@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T15:22:17.001Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kNxJeb6zJFAOR3UV3-hB" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T00:33:51.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kjlcHv81zZtN232vhdha" version="20.0.3" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="981" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E8qVWv2yx--T5LNkzgXp-278" value="&lt;h1&gt;&lt;span style=&quot;font-weight: 400; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;传统开发流程&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="72" y="180" width="1580" height="400" as="geometry" />
+          <mxGeometry x="70" y="180" width="1380" height="400" as="geometry" />
         </mxCell>
         <mxCell id="E8qVWv2yx--T5LNkzgXp-277" value="&lt;h1&gt;这个部分略(没有当过公司高管，没有经验，没有实践过)&lt;/h1&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="990" height="120" as="geometry" />
