@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T03:39:04.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="C1Bdy-1-Sbkjjl0V7OhE" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T03:50:09.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OjTdo_UNbF5BLE7QVuKJ" version="20.0.3" type="github">
   <diagram id="_R-5ce8Pa_QDh1MnXKhp" name="Page-1">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ukrD6VP8iaueiUXxFWR2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ukrD6VP8iaueiUXxFWR2-8" target="ukrD6VP8iaueiUXxFWR2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ukrD6VP8iaueiUXxFWR2-8" value="目的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -35,6 +38,21 @@
         </mxCell>
         <mxCell id="ukrD6VP8iaueiUXxFWR2-14" value="快速迭代（修正）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ukrD6VP8iaueiUXxFWR2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ukrD6VP8iaueiUXxFWR2-16" target="ukrD6VP8iaueiUXxFWR2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ukrD6VP8iaueiUXxFWR2-16" value="将软件分阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ukrD6VP8iaueiUXxFWR2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ukrD6VP8iaueiUXxFWR2-18" target="ukrD6VP8iaueiUXxFWR2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ukrD6VP8iaueiUXxFWR2-18" value="目标分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ukrD6VP8iaueiUXxFWR2-20" value="软件版本规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
